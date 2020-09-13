@@ -5,8 +5,10 @@ En este proyecto se trabajo como crear una aplicacion con React JS y una llamada
 
 ![busqueda](https://github.com/CristianSivak/AppFindRock-ReactJS/blob/master/find-rock/public/raiz.jpg)
 
-Luegos nuestra pantalla de resultados 
+<h3>Luegos nuestra pantalla de resultados </h3>
+
 ![resultados](https://github.com/CristianSivak/AppFindRock-ReactJS/blob/master/find-rock/public/busqueda.jpg)
 
-Y Finalmente la informacion del artista seleccionado
+<h3>Y Finalmente la informacion del artista seleccionado</h3>
+
 ![artista](https://github.com/CristianSivak/AppFindRock-ReactJS/blob/master/find-rock/public/pageartist.jpg)
